@@ -1,0 +1,45 @@
+  #contactEmail {
+    text-decoration: none;
+    color: inherit;
+    display: inline;
+  }
+
+  #splitter {
+    display: inline;
+  }
+
+  #contactPhone {
+    text-decoration: none;
+    color: inherit;
+    display: inline;
+  }
+
+  /* Linkedin Link Styling */
+  #fa-linkedin  {
+    color:#fff;
+    color: #0e76a8;
+  }
+  
+  /* GitHub Link Styling */
+  #fa-github  {
+    color:#fff;
+    color: #000000;
+  }
+  
+  /* Facebook Styling */
+  #fa-facebook  {
+    color:#fff;
+    color: #4267B2;
+  }
+  
+  /* Twitter Link Styling */
+  #fa-twitter  {
+    color:#fff;
+    color: #1DA1F2;
+  }
+  
+  /* WhatsApp Link Styling */
+  #fa-whatsapp  {
+    color:#fff;
+    color: #25d366;
+  }
